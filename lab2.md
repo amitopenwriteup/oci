@@ -81,15 +81,7 @@ Verify the bucket was created:
 - State shows as "Active"
 - Storage tier shows "Standard"
 
-##### Step 1.2: Create an Infrequent Access Tier Bucket
 
-1. Click "Create Bucket" button again
-2. In the Create Bucket dialog:
-   - Name: Enter "workshop-bucket-infrequent"
-   - Storage Tier: Select "Infrequent Access"
-   - Click "Create" button
-
-3. Wait for completion and verify both buckets are now visible in the list
 
 ##### Step 1.3: Enable Versioning on Standard Bucket
 
